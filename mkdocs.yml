@@ -1,0 +1,46 @@
+site_name: Xamarin iOS Guide - Peruzal
+
+theme:
+  name: material
+  logo: 'images/logo.png'
+  favicon: 'images/favicon.ico'
+  palette:
+    primary: 'orange'
+    accent: 'orange'
+
+markdown_extensions:
+  - admonition
+  - codehilite: 
+      linenums: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - pymdownx.arithmatex
+
+google_analytics:
+  - 'UA-40772582-8'
+  - 'auto'
+
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+
+copyright: 'Copyright &copy; 2019 - <a href="https://www.peruzal.com">Peruzal</a>'
+
+nav:
+  - Introduction: index.md
+  - Getting Started: getting-started.md
+  - Hello Xamarin.iOS: hello-xamarin-ios.md
+  - Common Views: common-views.md
+  - Auto Layout: auto-layout.md
+  - Table View: table-view.md
+  - Collection View: collection-view.md
+  - Tab Bar Controller: tab-bar.md
+  - Search Bar: search-bar.md
+  - Maps and Location: maps-and-location.md
+  - iOS Frameworks: ios-frameworks.md
+  - Networking: networking.md
+  - Persistence: persistence.md
+  - Animations and Gestures: animations-and-gestures.md
+  - User Notifications: user-notifications.md
+  - Beta Testing with Testflight: testflight.md
+  - Deploying to App Store: app-store-deployment.md
