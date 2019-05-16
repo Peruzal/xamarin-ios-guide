@@ -30,7 +30,22 @@ nav:
   - Introduction: index.md
   - Getting Started: getting-started.md
   - Hello Xamarin.iOS: hello-xamarin-ios.md
-  - Common Views: common-views.md
+  - Common Views: 
+    - Views: common-views.md
+    - Label: label.md
+    - Text Field: text-field.md
+    - Action Sheet: actionsheet.md
+    - Alert View: alert-view.md
+    - Button: button.md
+    - Date Picker: date-picker.md
+    - Image View: imageview.md
+    - Segmented Button: segmented-button.md
+    - Slider: slider.md
+    - Stepper: stepper.md
+    - TextView.md: textview.md
+    - Activity Indicator: activity-indicator-view.md
+    - Web View: web-view.md
+  - ViewControllers: view-controllers.md
   - Auto Layout: auto-layout.md
   - Table View: table-view.md
   - Collection View: collection-view.md
