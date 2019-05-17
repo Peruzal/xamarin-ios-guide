@@ -37,7 +37,9 @@ nav:
     - TextView.md: textview.md
     - Button: button.md
     - Image View: imageview.md
-    - Activity Indicator: activity-indicator-view.md
+    - Activity Indicator View: activity-indicator-view.md
+    - Progress View: progress-view.md
+    - Network Activity Indicator: network-activity-indicator.md
     - Segmented Button: segmented-button.md
     - Slider: slider.md
     - Stepper: stepper.md
