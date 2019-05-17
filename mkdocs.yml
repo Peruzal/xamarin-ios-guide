@@ -42,6 +42,7 @@ nav:
     - Network Activity Indicator: network-activity-indicator.md
     - Slider: slider.md
     - Segmented Button: segmented-button.md
+    - Switch: switch.md
     - Stepper: stepper.md
     - Action Sheet: actionsheet.md
     - Alert View: alert-view.md
