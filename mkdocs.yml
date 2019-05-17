@@ -45,8 +45,7 @@ nav:
     - Switch: switch.md
     - Stepper: stepper.md
     - Date Picker: date-picker.md
-    - Action Sheet: actionsheet.md
-    - Alert View: alert-view.md
+    - Displaying Alerts: alerts.md
   - ViewControllers: view-controllers.md
   - Auto Layout: auto-layout.md
   - Table View: table-view.md
