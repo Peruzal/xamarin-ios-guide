@@ -34,7 +34,7 @@ nav:
     - Views: common-views.md
     - Label: label.md
     - Text Field: text-field.md
-    - TextView.md: textview.md
+    - TextView: textview.md
     - Button: button.md
     - Image View: imageview.md
     - Activity Indicator View: activity-indicator-view.md
@@ -44,9 +44,9 @@ nav:
     - Segmented Button: segmented-button.md
     - Switch: switch.md
     - Stepper: stepper.md
+    - Date Picker: date-picker.md
     - Action Sheet: actionsheet.md
     - Alert View: alert-view.md
-    - Date Picker: date-picker.md
   - ViewControllers: view-controllers.md
   - Auto Layout: auto-layout.md
   - Table View: table-view.md
