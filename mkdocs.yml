@@ -46,7 +46,9 @@ nav:
     - Stepper: stepper.md
     - Date Picker: date-picker.md
     - Displaying Alerts: alerts.md
-  - ViewControllers: view-controllers.md
+  - ViewControllers:
+      - View Controllers: view-controllers.md
+      - Pass Data Between View Controller: pass-data-between-view-controllers.md
   - Auto Layout: auto-layout.md
   - Table View: table-view.md
   - Collection View: collection-view.md
