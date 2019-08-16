@@ -2,11 +2,15 @@ site_name: Xamarin iOS Guide - Peruzal
 
 theme:
   name: material
+  custom_dir: theme
   logo: 'images/logo.png'
   favicon: 'images/favicon.ico'
   palette:
     primary: 'orange'
     accent: 'orange'
+
+site_url: https://github.com/Peruzal/xamarin-ios-guide
+site_repo: https://github.com/Peruzal/xamarin-ios-guide     
 
 markdown_extensions:
   - admonition
@@ -17,12 +21,21 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.arithmatex
 
-google_analytics:
-  - 'UA-40772582-8'
-  - 'auto'
+# google_analytics:
+#   - 'UA-40772582-8'
+#   - 'auto'
+
+plugins:
+  - search
+  - minify:
+      minify_html: true    
 
 extra_javascript:
   - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+  - 'assets/js/utils.js'
+  - 'assets/js/mixpanel.js'
+  - 'assets/js/track.js'
+  - 'assets/js/drift.js'  
 
 copyright: 'Copyright &copy; 2019 - <a href="https://www.peruzal.com">Peruzal</a>'
 
