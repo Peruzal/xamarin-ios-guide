@@ -51,14 +51,14 @@ nav:
       - Pass Data Between View Controller: pass-data-between-view-controllers.md
   - Auto Layout: auto-layout.md
   - Table View: table-view.md
-  - Collection View: collection-view.md
-  - Tab Bar Controller: tab-bar.md
-  - Search Bar: search-bar.md
+  # - Collection View: collection-view.md
+  # - Tab Bar Controller: tab-bar.md
+  # - Search Bar: search-bar.md
   - Maps and Location: maps-and-location.md
   - iOS Frameworks: ios-frameworks.md
   - Networking: networking.md
   - Persistence: persistence.md
   - Animations and Gestures: animations-and-gestures.md
-  - User Notifications: user-notifications.md
-  - Beta Testing with Testflight: testflight.md
-  - Deploying to App Store: app-store-deployment.md
+  # - User Notifications: user-notifications.md
+  # - Beta Testing with Testflight: testflight.md
+  # - Deploying to App Store: app-store-deployment.md
