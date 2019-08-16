@@ -47,7 +47,7 @@ partial void HandleValueChanged(UISlider sender)
 }
 ```
 
-[1]: /images/slider.png
-[2]: /images/sliders_2x.png
-[3]: /images/slider-properties.png
-[4]: /images/slider-value-changed-event.png
+[1]: images/slider.png
+[2]: images/sliders_2x.png
+[3]: images/slider-properties.png
+[4]: images/slider-value-changed-event.png

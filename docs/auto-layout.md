@@ -31,7 +31,7 @@ To add constraints to a view, switch to constraint editing mode, then use either
 
 ![Add constraints][4]
 
-[1]: /images/alignandpin.jpg
-[2]: /images/autolayoutresolve.jpeg
-[3]: /images/switch-constraint-editing.png
-[4]: /images/constraint-handles.png
+[1]: images/alignandpin.jpg
+[2]: images/autolayoutresolve.jpeg
+[3]: images/switch-constraint-editing.png
+[4]: images/constraint-handles.png

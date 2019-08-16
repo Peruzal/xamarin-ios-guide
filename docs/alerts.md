@@ -104,6 +104,6 @@ The action sheet will display as the figure below on the ipad:
 
 ![Action sheet on iPad][3]
 
-[1]: /images/alert-view.png
-[2]: /images/action-sheet.png
-[3]: /images/action-sheet-ipad.png
+[1]: images/alert-view.png
+[2]: images/action-sheet.png
+[3]: images/action-sheet-ipad.png

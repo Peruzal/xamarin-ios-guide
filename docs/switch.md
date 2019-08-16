@@ -37,6 +37,6 @@ ringSwitch.ValueChanged += (sender, e) => {
 
 `ringSwitch` variable name is setup in the story board **Properties** window.
 
-[1]: /images/switch.png
-[2]: /images/switch-properties.png
-[3]: /images/switch-changed-event.png
+[1]: images/switch.png
+[2]: images/switch-properties.png
+[3]: images/switch-changed-event.png

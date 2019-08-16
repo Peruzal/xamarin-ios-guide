@@ -44,6 +44,6 @@ public void DidSelectContact(CNContactPickerViewController picker, Contacts.CNCo
 ![Contacts picker][3]
 
 
-[1]: /images/frameworks.png
+[1]: images/frameworks.png
 [2]: https://docs.microsoft.com/en-us/xamarin/ios/platform/
-[3]: /images/contacts-picker.png
+[3]: images/contacts-picker.png

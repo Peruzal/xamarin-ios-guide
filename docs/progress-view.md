@@ -25,4 +25,4 @@ You can move the progress bar by initially setting a value for the `Progress` pr
 progressView.SetProgress(0.8f, true);
 ```
 
-[1]: /images/progress-properties.png
+[1]: images/progress-properties.png

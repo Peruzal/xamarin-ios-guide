@@ -72,9 +72,9 @@ Let's now look at the different sub views we use to create the UI. We are going 
 - Alert View
 - Web View
 
-[1]: /images/storyboard.png
-[2]: /images/scene-storyboard.png
-[3]: /images/root-view.png
-[4]: /images/segue.png
-[5]: /images/document-outline.png
-[6]: /images/ios-views.png
+[1]: images/storyboard.png
+[2]: images/scene-storyboard.png
+[3]: images/root-view.png
+[4]: images/segue.png
+[5]: images/document-outline.png
+[6]: images/ios-views.png

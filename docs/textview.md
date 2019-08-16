@@ -26,6 +26,6 @@ In addition to those properties, the textfield inherits from the `UIScrollView` 
 
 The `UITextView` have similar events as the `UITextField`.
 
-[1]: /images/textview.png
-[2]: /images/textview-properties.png
-[3]: /images/textview-scrollview-properties.png
+[1]: images/textview.png
+[2]: images/textview-properties.png
+[3]: images/textview-scrollview-properties.png

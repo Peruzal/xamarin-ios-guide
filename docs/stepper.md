@@ -35,6 +35,6 @@ stepper.ValueChanged += (sender, e) => {
 
 The `stepper` variable have been defined from the story board.
 
-[1]: /images/stepper.png
-[2]: /images/stepper-properties.png
-[3]: /images/stepper-value-changed-event.png
+[1]: images/stepper.png
+[2]: images/stepper-properties.png
+[3]: images/stepper-value-changed-event.png

@@ -71,5 +71,5 @@ To pass the data back, we need to do the following:
 
 
 
-[1]: /images/pass-data.png
-[2]: /images/pass-data-back.png
+[1]: images/pass-data.png
+[2]: images/pass-data-back.png

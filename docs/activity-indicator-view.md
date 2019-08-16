@@ -36,5 +36,5 @@ partial void HandleLogin(UIButton sender)
 }
 ```
 
-[1]: /images/activity-indicator-view.png
-[2]: /images/activity-indicator-properties.png
+[1]: images/activity-indicator-view.png
+[2]: images/activity-indicator-properties.png

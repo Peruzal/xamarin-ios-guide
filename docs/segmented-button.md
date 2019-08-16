@@ -43,6 +43,6 @@ public override void ViewDidLoad()
 }
 ```
 
-[1]: /images/segmented-control.png
-[2]: /images/segmented-control-properties.png
-[3]: /images/segmented-handle-event.png
+[1]: images/segmented-control.png
+[2]: images/segmented-control-properties.png
+[3]: images/segmented-handle-event.png

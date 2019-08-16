@@ -85,4 +85,4 @@ void MapView_DidUpdateUserLocation(object sender, MapKit.MKUserLocationEventArgs
 
 
 
-[1]: /images/mapview-properties.png
+[1]: images/mapview-properties.png

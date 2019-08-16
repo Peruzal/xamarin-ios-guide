@@ -83,5 +83,5 @@ When the visibility of its views changes, a view controller automatically calls 
 
 The most important role of the view controller is responding to user interaction, such as button presses, navigation, and more.
 
-[1]: /images/viewcontroller-notifications.png
-[2]: /images/storyboard-id.png
+[1]: images/viewcontroller-notifications.png
+[2]: images/storyboard-id.png

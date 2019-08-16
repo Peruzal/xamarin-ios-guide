@@ -45,6 +45,6 @@ partial void ValidatePassword(UITextField sender)
 }
 ```
 
-[1]: /images/textfield-properties.png
-[2]: /images/textfield-events.png
-[3]: /images/textfield-changed-event.png
+[1]: images/textfield-properties.png
+[2]: images/textfield-events.png
+[3]: images/textfield-changed-event.png

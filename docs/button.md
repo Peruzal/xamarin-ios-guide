@@ -68,7 +68,7 @@ Using the `UIImage.FromBundle` finds the iamge already defined in the asset cata
 
 ![Asset catalog image][4]
 
-[1]: /images/button.png
-[2]: /images/button-properties.png
-[3]: /images/button-name.png
-[4]: /images/asset-catalog-image.png
+[1]: images/button.png
+[2]: images/button-properties.png
+[3]: images/button-name.png
+[4]: images/asset-catalog-image.png

@@ -168,11 +168,11 @@ public override void ViewDidLoad()
 
 When you now run, you should get the courses displaying.
 
-[1]: /images/tableview-design-examples.jpg
-[2]: /images/tableview-in-apps.jpg
-[3]: /images/tableview-content.png
-[4]: /images/table-view-content-type.png
-[5]: /images/grouped-tableview.png
-[7]: /images/tableview.png
-[8]: /images/table-view-cell.png
-[9]: /images/table-view-name.png
+[1]: images/tableview-design-examples.jpg
+[2]: images/tableview-in-apps.jpg
+[3]: images/tableview-content.png
+[4]: images/table-view-content-type.png
+[5]: images/grouped-tableview.png
+[7]: images/tableview.png
+[8]: images/table-view-cell.png
+[9]: images/table-view-name.png

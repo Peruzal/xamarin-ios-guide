@@ -60,4 +60,4 @@ iOS supports several gestures. You can add the gestures from the Toolbox.
 ![Gestures][2]
 
 [1]: https://gist.github.com/josephkandi/51f51802ce2e633be5dd99f1fc8787f6
-[2]: /images/gestures.png
+[2]: images/gestures.png

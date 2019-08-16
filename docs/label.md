@@ -29,4 +29,4 @@ The following properties can be changed from the properties window:
 - **Autoshrink** – Determines how the font sized will be minimized within a label, if necessary.
 - **Highlighted**, **Shadow**, **Offset** – Allows you to set the **Hightlighted** and **Shadow** color, and the shadow offset.
 
-[1]: /images/label-properties.png
+[1]: images/label-properties.png

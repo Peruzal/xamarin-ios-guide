@@ -29,6 +29,6 @@ logoImageView.Image = UIImage.FromBundle("logo");
 !!! info "Creating images"
     We can create images from resource, bundle, data or from another image. We can also create animated images using multiple image file names.
 
-[1]: /images/imageview.png
-[2]: /images/new-image-set.png
-[3]: /images/select-image.png
+[1]: images/imageview.png
+[2]: images/new-image-set.png
+[3]: images/select-image.png
